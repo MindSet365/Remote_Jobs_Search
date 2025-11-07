@@ -32,4 +32,4 @@ The global workforce is increasingly remote, yet job searching remains fragmente
 
 [![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) &nbsp; **Used for creating immersive and interactive 3D elements, such as the global map.**
 
-[![GSAP](https://img.shields.io/badge/GSAP-88E200?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/) &nbsp; **The GreenSock Animation Platform for creating high-performance, complex web animations.**
+[![GSAP](https://img.shields.io/badge/GSAP-18BA1F?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/) &nbsp; **The GreenSock Animation Platform for creating high-performance, complex web animations.**
