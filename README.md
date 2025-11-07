@@ -1,4 +1,4 @@
-# 🌐 Remote Jobs Search - Global Gateway
+# 🌐 Remote Jobs Search - Platform Hub
 
 #### Description:
 
