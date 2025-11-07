@@ -18,6 +18,7 @@ The global workforce is increasingly remote, yet job searching remains fragmente
 - **Geo-Blocking Mitigation:** Designed to offer a clear path to job listings that may be hidden or difficult to access due to geographical restrictions.
 - **Interactive 3D Elements:** Engaging and unique 3D globe visualizations (powered by Three.js) to represent global opportunities and the project's worldwide scope.
 - **Smooth, High-Performance UI:** Buttery-smooth transitions and animations achieved with **GSAP** ensure a delightful and responsive user experience.
+- **Responsive Design (Mobile-Ready):** The application ensures a seamless experience across all devices, from large monitors to smartphones, adapting the layout and 3D controls for optimal viewing and touch interaction.
 - **TypeScript Reliability:** Built with a fully type-safe codebase for long-term stability and developer confidence.
 
 ---
